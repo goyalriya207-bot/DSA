@@ -4,7 +4,7 @@ public:
         ListNode *slow=head;
         ListNode *fast=head;
 
-        while(fast!=NULL && fast->next!=NULL){        //using slow and fasr approach
+        while(fast!=NULL && fast->next!=NULL){        //using slow and fast approach
             slow=slow->next;
             fast=fast->next->next;
              if(slow==fast){
