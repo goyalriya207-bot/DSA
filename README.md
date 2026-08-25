@@ -8,13 +8,13 @@ I am solving problems topic-by-topic on LeetCode and maintaining my solutions he
 
 | Topic | Problems Solved |
 |---|---:|
-| 🟢 Arrays | 5 |
+| 🟢 Arrays | 6 |
 | 🔵 Binary Search | 1 |
 | 🟣 Hashing | 3 |
 | 🔴 Linked List | 7 |
 | 🟠 Stack | 1 |
 | 🟡 Strings | 1 |
-| **Total** | **18** |
+| **Total** | **19** |
 
 ## 📂 Topics
 
