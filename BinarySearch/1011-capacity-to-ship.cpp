@@ -40,6 +40,7 @@ public:
         for(int i=0;i<weights.size();i++){
                   sum+=weights[i];
         }
+        high=sum;
 
         while(low<=high){
             int mid=low+(high-low)/2;
