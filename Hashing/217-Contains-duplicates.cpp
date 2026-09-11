@@ -8,7 +8,7 @@ public:
             if(mpp.find(nums[i])!=mpp.end()){
 
                 return true;
-                break;
+                break;                    //can also be done using concept of xor
             }
 
             else{
