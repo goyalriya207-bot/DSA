@@ -16,7 +16,8 @@ public:
             else {
                 if (top == -1) {
                     return false;
-                } else if ((stack[top] == '(' && s[i] != ')')
+                } 
+                else if ((stack[top] == '(' && s[i] != ')')
                     || (stack[top] == '[' && s[i] != ']') ||
                         (stack[top] == '{' && s[i] != '}')) {
                         return false;
