@@ -21,7 +21,7 @@ class{
                 it.second++;
                 st.push(it);
 
-                if(st.first->left !=NULL){
+                if(it.first->left !=NULL){
                     st.push({it.first->left,1});
                 }
 
@@ -34,7 +34,7 @@ class{
                     it.second++;
                     st.push(it);
 
-                    if(st.first->right!=NULL){
+                    if(it.first->right!=NULL){
                         st.push({it.first->right,1});
                     }
                 
