@@ -12,3 +12,11 @@ void bubblesort(int arr[],int n){
           return;
     }
 }
+
+Time Complexity
+
+Best case=O(n)
+Average case=O(n*n)
+Worst case=O(n*n)
+
+Space Complexity=O(1)
